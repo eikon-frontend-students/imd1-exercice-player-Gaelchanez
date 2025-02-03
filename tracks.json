@@ -1,14 +1,26 @@
 [
   {
-    "title": "Outer Wilds",
-    "artist": "Andrew Prahlow",
-    "src": "music/OuterWilds.mp3",
-    "cover": "covers/OuterWilds.jpg"
+    "title": "My eyes",
+    "artist": "Travis scott",
+    "src": "music/my-eyes-only-second-halfpart.mp3",
+    "cover": "covers/utopia travis.jpg"
   },
   {
-    "title": "Gucci Gang",
-    "artist": "Lil Pump",
-    "src": "music/GucciGang.mp3",
-    "cover": "covers/GucciGang.png"
+    "title": "La boème",
+    "artist": "Charle Aznavour",
+    "src": "music/la-bohème.mp3",
+    "cover": "covers/charle.jpg"
+  },
+  {
+    "title": "Uranus",
+    "artist": "Pnl",
+    "src": "music/uranus.mp3",
+    "cover": "covers/dans la legende.jpg"
+  },
+  {
+    "title": "All of a sudden",
+    "artist": "Gaël Chanez",
+    "src": "music/travis biscott.wav",
+    "cover": "covers/all of. sudden.jpg"
   }
 ]
