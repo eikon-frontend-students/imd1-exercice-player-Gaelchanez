@@ -55,3 +55,17 @@ input[type="range"]::-webkit-slider-runnable-track {
   border: none;
   background: transparent;
 }
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  max-width: 800px;
+  max-height: 1900px;
+  background-color: #555;
+}
+img {
+  width: 200px;
+  height: auto;
+}
